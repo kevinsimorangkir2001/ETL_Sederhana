@@ -31,7 +31,4 @@ coverage report -m
 
 # Link Google Sheets:
 https://docs.google.com/spreadsheets/d/1yFUgSlNPsuiu8d8fxzPAGcxbNrxAioumBGLOD6gQX0w/edit?usp=sharing
-# ETL_Pipeline_Fashion
-# ETL_Pipeline_Fashion
-# ETL_Pipeline_Fashion
-# ETL_Pipeline_Fashion
+
