@@ -1,0 +1,1449 @@
+2025-05-17 13:50:00,463 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-17 13:50:01,010 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:00
+2025-05-17 13:50:01,012 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-17 13:50:01,479 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:01
+2025-05-17 13:50:01,481 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-17 13:50:01,956 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:01
+2025-05-17 13:50:01,957 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-17 13:50:02,404 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:01
+2025-05-17 13:50:02,405 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-17 13:50:02,850 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:02
+2025-05-17 13:50:02,852 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-17 13:50:03,298 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:02
+2025-05-17 13:50:03,300 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-17 13:50:03,753 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:03
+2025-05-17 13:50:03,754 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-17 13:50:04,299 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:03
+2025-05-17 13:50:04,300 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-17 13:50:04,772 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:04
+2025-05-17 13:50:04,773 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-17 13:50:05,247 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:04
+2025-05-17 13:50:05,247 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-17 13:50:05,851 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:05
+2025-05-17 13:50:05,852 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-17 13:50:06,343 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:05
+2025-05-17 13:50:06,344 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-17 13:50:06,816 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:06
+2025-05-17 13:50:06,817 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-17 13:50:07,302 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:06
+2025-05-17 13:50:07,303 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-17 13:50:07,767 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:07
+2025-05-17 13:50:07,769 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-17 13:50:08,231 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:07
+2025-05-17 13:50:08,232 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-17 13:50:08,694 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:08
+2025-05-17 13:50:08,695 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-17 13:50:09,212 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:08
+2025-05-17 13:50:09,213 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-17 13:50:09,722 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:09
+2025-05-17 13:50:09,723 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-17 13:50:10,198 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:09
+2025-05-17 13:50:10,199 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-17 13:50:10,680 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:10
+2025-05-17 13:50:10,680 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-17 13:50:11,121 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:10
+2025-05-17 13:50:11,122 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-17 13:50:11,554 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:11
+2025-05-17 13:50:11,555 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-17 13:50:11,997 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:11
+2025-05-17 13:50:11,998 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-17 13:50:12,439 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:11
+2025-05-17 13:50:12,440 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-17 13:50:12,885 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:12
+2025-05-17 13:50:12,887 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-17 13:50:13,339 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:12
+2025-05-17 13:50:13,340 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-17 13:50:13,763 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:13
+2025-05-17 13:50:13,764 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-17 13:50:14,199 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:13
+2025-05-17 13:50:14,200 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-17 13:50:14,652 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:14
+2025-05-17 13:50:14,653 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-17 13:50:15,127 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:14
+2025-05-17 13:50:15,128 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-17 13:50:15,629 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:15
+2025-05-17 13:50:15,630 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-17 13:50:16,116 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:15
+2025-05-17 13:50:16,117 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-17 13:50:16,590 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:16
+2025-05-17 13:50:16,591 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-17 13:50:17,069 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:16
+2025-05-17 13:50:17,070 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-17 13:50:17,570 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:17
+2025-05-17 13:50:17,571 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-17 13:50:18,039 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:17
+2025-05-17 13:50:18,040 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-17 13:50:18,485 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:18
+2025-05-17 13:50:18,486 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-17 13:50:18,916 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:18
+2025-05-17 13:50:18,917 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-17 13:50:19,339 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:18
+2025-05-17 13:50:19,340 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-17 13:50:19,800 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:19
+2025-05-17 13:50:19,801 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-17 13:50:20,266 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:19
+2025-05-17 13:50:20,267 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-17 13:50:20,735 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:20
+2025-05-17 13:50:20,736 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-17 13:50:21,192 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:20
+2025-05-17 13:50:21,192 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-17 13:50:21,625 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:21
+2025-05-17 13:50:21,626 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-17 13:50:22,074 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:21
+2025-05-17 13:50:22,075 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-17 13:50:22,545 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:22
+2025-05-17 13:50:22,546 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-17 13:50:23,040 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:22
+2025-05-17 13:50:23,041 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-17 13:50:23,508 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:23
+2025-05-17 13:50:23,509 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-17 13:50:24,021 - INFO - Berhasil melakukan extract tanggal 2025-05-17 13:50:23
+2025-05-17 16:45:32,236 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 16:45:32,240 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 16:45:32,240 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 16:45:32
+2025-05-17 16:45:32,245 - INFO - Berhasil melakukan extract tanggal 2025-05-17 16:45:32
+2025-05-17 16:51:19,163 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 16:51:19,166 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 16:51:19,166 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 16:51:19
+2025-05-17 16:51:19,167 - INFO - Berhasil melakukan extract tanggal 2025-05-17 16:51:19
+2025-05-17 16:53:26,278 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 16:53:26,281 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 16:53:26,281 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 16:53:26
+2025-05-17 16:53:26,282 - INFO - Berhasil melakukan extract tanggal 2025-05-17 16:53:26
+2025-05-17 16:55:01,790 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 16:55:01,793 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 16:55:01,794 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 16:55:01
+2025-05-17 16:55:01,796 - INFO - Berhasil melakukan extract tanggal 2025-05-17 16:55:01
+2025-05-17 17:00:05,482 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:00:05,487 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:00:05,487 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:00:05
+2025-05-17 17:00:05,490 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:00:05
+2025-05-17 17:03:48,655 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:03:48,657 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:03:48,657 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:03:48
+2025-05-17 17:03:48,658 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:03:48
+2025-05-17 17:11:53,573 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:11:53,576 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:11:53,576 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:11:53
+2025-05-17 17:11:53,577 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:11:53
+2025-05-17 17:12:50,213 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:12:50,214 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:12:50,214 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:12:50
+2025-05-17 17:12:50,215 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:12:50
+2025-05-17 17:13:21,488 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:13:21,489 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:13:21,489 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:13:21
+2025-05-17 17:13:21,490 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:13:21
+2025-05-17 17:29:15,194 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:29:15,197 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:29:15,197 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:29:15
+2025-05-17 17:29:15,199 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:29:15
+2025-05-17 17:57:52,464 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:57:52,466 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:57:52,467 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:57:52
+2025-05-17 17:57:52,469 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:57:52
+2025-05-17 17:59:17,666 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:59:17,667 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:59:17,667 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:59:17
+2025-05-17 17:59:17,667 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:59:17
+2025-05-17 17:59:32,944 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 17:59:32,947 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 17:59:32,947 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 17:59:32
+2025-05-17 17:59:32,949 - INFO - Berhasil melakukan extract tanggal 2025-05-17 17:59:32
+2025-05-17 18:06:05,535 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:06:05,538 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:06:05,538 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:06:05
+2025-05-17 18:06:05,540 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:06:05
+2025-05-17 18:06:29,852 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:06:29,855 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:06:29,855 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:06:29
+2025-05-17 18:06:29,856 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:06:29
+2025-05-17 18:08:23,085 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:08:23,089 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:08:23,089 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:08:23
+2025-05-17 18:08:23,090 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:08:23
+2025-05-17 18:08:41,522 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:08:41,523 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:08:41,523 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:08:41
+2025-05-17 18:08:41,524 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:08:41
+2025-05-17 18:08:58,126 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:08:58,131 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:08:58,131 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:08:58
+2025-05-17 18:08:58,133 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:08:58
+2025-05-17 18:25:59,552 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:25:59,553 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:25:59,553 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:25:59
+2025-05-17 18:25:59,554 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:25:59
+2025-05-17 18:25:59,556 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:25:59
+2025-05-17 18:29:49,747 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:29:49,749 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:29:49,749 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:29:49
+2025-05-17 18:29:49,749 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:29:49
+2025-05-17 18:29:49,753 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:29:49
+2025-05-17 18:31:02,737 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:31:02,738 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:31:02,738 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:31:02
+2025-05-17 18:31:02,739 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:31:02
+2025-05-17 18:31:02,741 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:31:02
+2025-05-17 18:33:13,024 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:33:13,025 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:33:13,025 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:33:13
+2025-05-17 18:33:13,026 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:33:13,026 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:33:13
+2025-05-17 18:33:13,028 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:33:13
+2025-05-17 18:35:18,088 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:35:18,089 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:35:18,089 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:35:18
+2025-05-17 18:35:18,089 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:35:18,089 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:35:18
+2025-05-17 18:35:18,093 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:35:18
+2025-05-17 18:35:49,777 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:35:49,780 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:35:49,780 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:35:49
+2025-05-17 18:35:49,782 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:35:49,782 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:35:49
+2025-05-17 18:35:49,786 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:35:49
+2025-05-17 18:36:27,699 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:36:27,699 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:36:27,699 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:36:27
+2025-05-17 18:36:27,702 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:36:27
+2025-05-17 18:36:40,700 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:36:40,702 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:36:40,703 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:36:40
+2025-05-17 18:36:40,706 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:36:40
+2025-05-17 18:46:56,342 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:46:56,343 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:46:56,343 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:46:56
+2025-05-17 18:46:56,344 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:46:56
+2025-05-17 18:47:07,538 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:47:07,540 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:47:07,540 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:47:07
+2025-05-17 18:47:07,542 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:47:07
+2025-05-17 18:49:36,604 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:49:36,605 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:49:36,605 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:49:36
+2025-05-17 18:49:36,606 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:49:36
+2025-05-17 18:49:45,663 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 18:49:45,665 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 18:49:45,665 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 18:49:45
+2025-05-17 18:49:45,668 - INFO - Berhasil melakukan extract tanggal 2025-05-17 18:49:45
+2025-05-17 19:16:57,913 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-17 19:16:58,190 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:57
+2025-05-17 19:16:58,191 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-17 19:16:58,282 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,283 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-17 19:16:58,367 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,367 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-17 19:16:58,448 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,449 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-17 19:16:58,549 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,549 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-17 19:16:58,633 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,633 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-17 19:16:58,706 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,706 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-17 19:16:58,804 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,804 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-17 19:16:58,902 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,902 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-17 19:16:58,989 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:58,989 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-17 19:16:59,069 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:58
+2025-05-17 19:16:59,070 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-17 19:16:59,150 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,150 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-17 19:16:59,235 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,235 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-17 19:16:59,336 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,337 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-17 19:16:59,411 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,411 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-17 19:16:59,508 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,509 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-17 19:16:59,637 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,637 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-17 19:16:59,715 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,716 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-17 19:16:59,794 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,794 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-17 19:16:59,869 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,869 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-17 19:16:59,967 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:16:59,969 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-17 19:17:00,065 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:16:59
+2025-05-17 19:17:00,065 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-17 19:17:00,148 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,149 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-17 19:17:00,238 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,238 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-17 19:17:00,316 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,317 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-17 19:17:00,407 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,407 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-17 19:17:00,488 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,488 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-17 19:17:00,612 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,612 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-17 19:17:00,701 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,701 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-17 19:17:00,780 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,780 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-17 19:17:00,860 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,860 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-17 19:17:00,949 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:00,950 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-17 19:17:01,027 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:00
+2025-05-17 19:17:01,028 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-17 19:17:01,103 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,103 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-17 19:17:01,198 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,198 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-17 19:17:01,282 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,282 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-17 19:17:01,368 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,368 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-17 19:17:01,451 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,452 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-17 19:17:01,541 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,541 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-17 19:17:01,622 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,623 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-17 19:17:01,724 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,724 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-17 19:17:01,805 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,806 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-17 19:17:01,907 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:01,907 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-17 19:17:02,000 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:01
+2025-05-17 19:17:02,000 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-17 19:17:02,091 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:02
+2025-05-17 19:17:02,091 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-17 19:17:02,167 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:02
+2025-05-17 19:17:02,167 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-17 19:17:02,246 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:02
+2025-05-17 19:17:02,247 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-17 19:17:02,322 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:02
+2025-05-17 19:17:02,323 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-17 19:17:02,415 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:02
+2025-05-17 19:17:02,415 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-17 19:17:02,506 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:17:02
+2025-05-17 19:17:02,507 - INFO - Transformasi data dimulai pada 2025-05-17 19:17:02
+2025-05-17 19:17:02,525 - INFO - Menghapus 100 baris dengan title tidak valid
+2025-05-17 19:17:02,529 - INFO - Kolom 'price' berhasil diproses dan koversi ke rupiah
+2025-05-17 19:17:02,533 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja
+2025-05-17 19:17:02,535 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja
+2025-05-17 19:17:02,536 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 19:17:02,541 - INFO - Menghapus 0 duplikat
+2025-05-17 19:17:02,542 - INFO - Menghapus 0 null
+2025-05-17 19:17:02,543 - INFO - Transformasi selesai, total baris akhir: 867
+2025-05-17 19:19:56,077 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-17 19:19:56,322 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:56,324 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-17 19:19:56,461 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:56,461 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-17 19:19:56,565 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:56,565 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-17 19:19:56,657 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:56,657 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-17 19:19:56,739 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:56,739 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-17 19:19:56,835 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:56,836 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-17 19:19:56,925 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:56,925 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-17 19:19:57,006 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:56
+2025-05-17 19:19:57,006 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-17 19:19:57,091 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:57
+2025-05-17 19:19:57,091 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-17 19:19:57,201 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:57
+2025-05-17 19:19:57,202 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-17 19:19:57,309 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:57
+2025-05-17 19:19:57,309 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-17 19:19:57,386 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:57
+2025-05-17 19:19:57,388 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-17 19:19:57,471 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:57
+2025-05-17 19:19:57,471 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-17 19:19:58,644 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:57
+2025-05-17 19:19:58,645 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-17 19:19:58,729 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:58
+2025-05-17 19:19:58,729 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-17 19:19:58,827 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:58
+2025-05-17 19:19:58,827 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-17 19:19:58,932 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:58
+2025-05-17 19:19:58,932 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-17 19:19:59,022 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:58
+2025-05-17 19:19:59,023 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-17 19:19:59,115 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,116 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-17 19:19:59,200 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,200 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-17 19:19:59,288 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,288 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-17 19:19:59,386 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,386 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-17 19:19:59,492 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,492 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-17 19:19:59,602 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,602 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-17 19:19:59,682 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,682 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-17 19:19:59,786 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,786 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-17 19:19:59,867 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:19:59,868 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-17 19:20:00,000 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:19:59
+2025-05-17 19:20:00,000 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-17 19:20:00,098 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,098 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-17 19:20:00,188 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,188 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-17 19:20:00,284 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,284 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-17 19:20:00,394 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,394 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-17 19:20:00,480 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,481 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-17 19:20:00,618 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,618 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-17 19:20:00,773 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,775 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-17 19:20:00,875 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,875 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-17 19:20:00,970 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:00,970 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-17 19:20:01,054 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:00
+2025-05-17 19:20:01,055 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-17 19:20:01,144 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,145 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-17 19:20:01,241 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,241 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-17 19:20:01,319 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,320 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-17 19:20:01,397 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,397 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-17 19:20:01,483 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,483 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-17 19:20:01,582 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,583 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-17 19:20:01,680 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,680 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-17 19:20:01,794 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,794 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-17 19:20:01,880 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,880 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-17 19:20:01,964 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:01,965 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-17 19:20:02,052 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:01
+2025-05-17 19:20:02,052 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-17 19:20:02,139 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:20:02
+2025-05-17 19:20:02,140 - INFO - Transformasi data dimulai pada 2025-05-17 19:20:02
+2025-05-17 19:20:02,163 - INFO - Menghapus 100 baris dengan title tidak valid
+2025-05-17 19:20:02,170 - INFO - Kolom 'price' berhasil diproses dan koversi ke rupiah
+2025-05-17 19:20:02,174 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja
+2025-05-17 19:20:02,176 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja
+2025-05-17 19:20:02,177 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 19:20:02,185 - INFO - Menghapus 0 duplikat
+2025-05-17 19:20:02,186 - INFO - Menghapus 0 null
+2025-05-17 19:20:02,187 - INFO - Transformasi selesai, total baris akhir: 867
+2025-05-17 19:31:29,810 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-17 19:31:30,012 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:29
+2025-05-17 19:31:30,013 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-17 19:31:30,106 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,106 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-17 19:31:30,183 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,183 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-17 19:31:30,259 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,260 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-17 19:31:30,340 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,340 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-17 19:31:30,417 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,418 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-17 19:31:30,511 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,511 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-17 19:31:30,596 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,596 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-17 19:31:30,673 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,673 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-17 19:31:30,753 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,753 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-17 19:31:30,833 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,833 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-17 19:31:30,943 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:30,944 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-17 19:31:31,045 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:30
+2025-05-17 19:31:31,045 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-17 19:31:31,137 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,137 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-17 19:31:31,231 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,231 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-17 19:31:31,315 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,315 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-17 19:31:31,409 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,410 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-17 19:31:31,502 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,502 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-17 19:31:31,602 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,603 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-17 19:31:31,684 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,684 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-17 19:31:31,786 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,786 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-17 19:31:31,867 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,867 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-17 19:31:31,950 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:31,950 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-17 19:31:32,030 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:31
+2025-05-17 19:31:32,030 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-17 19:31:32,106 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,107 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-17 19:31:32,185 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,185 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-17 19:31:32,260 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,260 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-17 19:31:32,376 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,376 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-17 19:31:32,465 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,465 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-17 19:31:32,573 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,573 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-17 19:31:32,649 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,649 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-17 19:31:32,731 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,731 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-17 19:31:32,835 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,836 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-17 19:31:32,927 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:32,927 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-17 19:31:33,019 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:32
+2025-05-17 19:31:33,020 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-17 19:31:33,111 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,111 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-17 19:31:33,197 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,197 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-17 19:31:33,298 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,299 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-17 19:31:33,393 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,393 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-17 19:31:33,485 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,485 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-17 19:31:33,564 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,564 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-17 19:31:33,642 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,642 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-17 19:31:33,720 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,720 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-17 19:31:33,801 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,801 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-17 19:31:33,890 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,890 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-17 19:31:33,991 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:33,992 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-17 19:31:34,092 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:33
+2025-05-17 19:31:34,092 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-17 19:31:34,185 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:34
+2025-05-17 19:31:34,186 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-17 19:31:34,263 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:34
+2025-05-17 19:31:34,263 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-17 19:31:34,342 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:31:34
+2025-05-17 19:31:34,343 - INFO - Transformasi data dimulai pada 2025-05-17 19:31:34
+2025-05-17 19:31:34,355 - INFO - Menghapus 100 baris dengan title tidak valid
+2025-05-17 19:31:34,359 - INFO - Kolom 'price' berhasil diproses dan koversi ke rupiah berjumlah 867 data
+2025-05-17 19:31:34,363 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja867 data
+2025-05-17 19:31:34,367 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja867 data
+2025-05-17 19:31:34,369 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 19:31:34,376 - INFO - Menghapus 0 duplikat
+2025-05-17 19:31:34,376 - INFO - Menghapus 0 null
+2025-05-17 19:31:34,377 - INFO - Transformasi selesai, total baris akhir: 867
+2025-05-17 19:34:33,095 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-17 19:34:33,257 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,257 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-17 19:34:33,344 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,344 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-17 19:34:33,423 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,425 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-17 19:34:33,514 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,514 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-17 19:34:33,612 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,612 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-17 19:34:33,701 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,701 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-17 19:34:33,781 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,781 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-17 19:34:33,874 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,874 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-17 19:34:33,975 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:33,975 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-17 19:34:34,079 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:33
+2025-05-17 19:34:34,079 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-17 19:34:34,154 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,154 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-17 19:34:34,233 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,233 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-17 19:34:34,344 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,345 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-17 19:34:34,426 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,427 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-17 19:34:34,503 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,504 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-17 19:34:34,610 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,610 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-17 19:34:34,712 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,713 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-17 19:34:34,807 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,808 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-17 19:34:34,880 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,880 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-17 19:34:34,955 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:34,956 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-17 19:34:35,042 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:34
+2025-05-17 19:34:35,042 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-17 19:34:35,121 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,121 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-17 19:34:35,201 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,201 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-17 19:34:35,283 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,283 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-17 19:34:35,400 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,413 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-17 19:34:35,549 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,551 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-17 19:34:35,644 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,647 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-17 19:34:35,789 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,789 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-17 19:34:35,899 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:35,900 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-17 19:34:36,009 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:35
+2025-05-17 19:34:36,010 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-17 19:34:36,116 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,116 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-17 19:34:36,229 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,229 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-17 19:34:36,324 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,324 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-17 19:34:36,400 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,400 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-17 19:34:36,498 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,498 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-17 19:34:36,591 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,591 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-17 19:34:36,682 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,683 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-17 19:34:36,783 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,784 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-17 19:34:36,857 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,858 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-17 19:34:36,940 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:36,940 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-17 19:34:37,030 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:36
+2025-05-17 19:34:37,030 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-17 19:34:37,107 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,107 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-17 19:34:37,187 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,187 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-17 19:34:37,281 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,281 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-17 19:34:37,360 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,360 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-17 19:34:37,434 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,435 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-17 19:34:37,524 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,525 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-17 19:34:37,620 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,620 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-17 19:34:37,703 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,703 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-17 19:34:37,780 - INFO - Berhasil melakukan extract tanggal 2025-05-17 19:34:37
+2025-05-17 19:34:37,781 - INFO - Transformasi data dimulai pada 2025-05-17 19:34:37
+2025-05-17 19:34:37,800 - INFO - Menghapus 100 baris dengan title tidak valid
+2025-05-17 19:34:37,807 - INFO - Kolom 'price' berhasil diproses dan koversi ke rupiah berjumlah 33 data
+2025-05-17 19:34:37,810 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja867 data
+2025-05-17 19:34:37,811 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja867 data
+2025-05-17 19:34:37,814 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 19:34:37,821 - INFO - Menghapus 0 duplikat
+2025-05-17 19:34:37,823 - INFO - Menghapus 0 null
+2025-05-17 19:34:37,823 - INFO - Transformasi selesai, total baris akhir: 867
+2025-05-17 20:39:56,944 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:39:56,952 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:39:56,952 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:39:56
+2025-05-17 20:39:56,952 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:39:56
+2025-05-17 20:39:56,952 - INFO - Transformasi data dimulai pada 2025-05-17 20:39:56
+2025-05-17 20:39:56,971 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:39:56,985 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:39:57,001 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:39:57,011 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:39:57,017 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:39:57,044 - INFO - Menghapus 0 duplikat
+2025-05-17 20:39:57,051 - INFO - Menghapus 0 null
+2025-05-17 20:39:57,051 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:39:57,071 - INFO - Transformasi data dimulai pada 2025-05-17 20:39:57
+2025-05-17 20:39:57,075 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:39:57,083 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:39:57,083 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:39:57,096 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:39:57,099 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:39:57,101 - INFO - Menghapus 0 duplikat
+2025-05-17 20:39:57,101 - INFO - Menghapus 0 null
+2025-05-17 20:39:57,101 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:41:21,435 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:41:21,438 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:41:21,438 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:41:21
+2025-05-17 20:41:21,442 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:41:21
+2025-05-17 20:41:21,442 - INFO - Transformasi data dimulai pada 2025-05-17 20:41:21
+2025-05-17 20:41:21,458 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:41:21,475 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:41:21,481 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:41:21,483 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:41:21,491 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:41:21,501 - INFO - Menghapus 0 duplikat
+2025-05-17 20:41:21,501 - INFO - Menghapus 0 null
+2025-05-17 20:41:21,501 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:41:21,511 - INFO - Transformasi data dimulai pada 2025-05-17 20:41:21
+2025-05-17 20:41:21,517 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:41:21,521 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:41:21,521 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:41:21,526 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:41:21,528 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:41:21,530 - INFO - Menghapus 0 duplikat
+2025-05-17 20:41:21,530 - INFO - Menghapus 0 null
+2025-05-17 20:41:21,531 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:41:38,460 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:41:38,468 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:41:38,468 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:41:38
+2025-05-17 20:41:38,475 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:41:38
+2025-05-17 20:41:38,475 - INFO - Transformasi data dimulai pada 2025-05-17 20:41:38
+2025-05-17 20:41:38,487 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:41:38,499 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:41:38,509 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:41:38,517 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:41:38,525 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:41:38,528 - INFO - Menghapus 0 duplikat
+2025-05-17 20:41:38,528 - INFO - Menghapus 0 null
+2025-05-17 20:41:38,541 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:41:38,551 - INFO - Transformasi data dimulai pada 2025-05-17 20:41:38
+2025-05-17 20:41:38,556 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:41:38,561 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:41:38,564 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:41:38,571 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:41:38,573 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:41:38,573 - INFO - Menghapus 0 duplikat
+2025-05-17 20:41:38,573 - INFO - Menghapus 0 null
+2025-05-17 20:41:38,573 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:42:55,556 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:42:55,561 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:42:55,561 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:42:55
+2025-05-17 20:42:55,561 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:42:55
+2025-05-17 20:42:55,564 - INFO - Transformasi data dimulai pada 2025-05-17 20:42:55
+2025-05-17 20:42:55,564 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:42:55,572 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:42:55,576 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:42:55,576 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:42:55,576 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:42:55,581 - INFO - Menghapus 0 duplikat
+2025-05-17 20:42:55,581 - INFO - Menghapus 0 null
+2025-05-17 20:42:55,581 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:42:55,591 - INFO - Transformasi data dimulai pada 2025-05-17 20:42:55
+2025-05-17 20:42:55,591 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:42:55,598 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:42:55,601 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:42:55,606 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:42:55,606 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:42:55,613 - INFO - Menghapus 0 duplikat
+2025-05-17 20:42:55,616 - INFO - Menghapus 0 null
+2025-05-17 20:42:55,616 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:43:11,049 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:43:11,052 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:43:11,052 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:43:11
+2025-05-17 20:43:11,062 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:43:11
+2025-05-17 20:43:11,062 - INFO - Transformasi data dimulai pada 2025-05-17 20:43:11
+2025-05-17 20:43:11,080 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:43:11,101 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:43:11,109 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:43:11,110 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:43:11,110 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:43:11,119 - INFO - Menghapus 0 duplikat
+2025-05-17 20:43:11,126 - INFO - Menghapus 0 null
+2025-05-17 20:43:11,129 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:43:11,142 - INFO - Transformasi data dimulai pada 2025-05-17 20:43:11
+2025-05-17 20:43:11,142 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:43:11,150 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:43:11,150 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:43:11,159 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:43:11,159 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:43:11,159 - INFO - Menghapus 0 duplikat
+2025-05-17 20:43:11,159 - INFO - Menghapus 0 null
+2025-05-17 20:43:11,159 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:48:47,466 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:48:47,469 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:48:47,470 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:48:47
+2025-05-17 20:48:47,472 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:48:47
+2025-05-17 20:48:47,473 - INFO - Transformasi data dimulai pada 2025-05-17 20:48:47
+2025-05-17 20:48:47,489 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:48:47,504 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:48:47,515 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:48:47,524 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:48:47,528 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:48:47,543 - INFO - Menghapus 0 duplikat
+2025-05-17 20:48:47,544 - INFO - Menghapus 0 null
+2025-05-17 20:48:47,546 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:48:47,554 - INFO - Transformasi data dimulai pada 2025-05-17 20:48:47
+2025-05-17 20:48:47,557 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:48:47,560 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:48:47,563 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:48:47,565 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:48:47,565 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:48:47,567 - INFO - Menghapus 0 duplikat
+2025-05-17 20:48:47,568 - INFO - Menghapus 0 null
+2025-05-17 20:48:47,568 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:48:47,569 - INFO - Transformasi data dimulai pada 2025-05-17 20:48:47
+2025-05-17 20:48:47,572 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:48:47,575 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 20:49:02,354 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:49:02,382 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:49:02,383 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:49:02
+2025-05-17 20:49:02,434 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:49:02
+2025-05-17 20:49:02,444 - INFO - Transformasi data dimulai pada 2025-05-17 20:49:02
+2025-05-17 20:49:02,471 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:49:02,491 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:49:02,501 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:49:02,519 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:49:02,525 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:49:02,531 - INFO - Menghapus 0 duplikat
+2025-05-17 20:49:02,532 - INFO - Menghapus 0 null
+2025-05-17 20:49:02,536 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:49:02,552 - INFO - Transformasi data dimulai pada 2025-05-17 20:49:02
+2025-05-17 20:49:02,561 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:49:02,567 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:49:02,574 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:49:02,587 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:49:02,595 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:49:02,599 - INFO - Menghapus 0 duplikat
+2025-05-17 20:49:02,601 - INFO - Menghapus 0 null
+2025-05-17 20:49:02,602 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:49:02,605 - INFO - Transformasi data dimulai pada 2025-05-17 20:49:02
+2025-05-17 20:49:02,617 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:49:02,626 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 20:53:01,011 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 20:53:01,015 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 20:53:01,015 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 20:53:01
+2025-05-17 20:53:01,020 - INFO - Berhasil melakukan extract tanggal 2025-05-17 20:53:01
+2025-05-17 20:53:01,022 - INFO - Transformasi data dimulai pada 2025-05-17 20:53:01
+2025-05-17 20:53:01,038 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:53:01,049 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 20:53:01,057 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:53:01,062 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 20:53:01,064 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:53:01,079 - INFO - Menghapus 0 duplikat
+2025-05-17 20:53:01,081 - INFO - Menghapus 0 null
+2025-05-17 20:53:01,082 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 20:53:01,083 - INFO - Transformasi data dimulai pada 2025-05-17 20:53:01
+2025-05-17 20:53:01,087 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:53:01,094 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:53:01,098 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:53:01,101 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:53:01,102 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:53:01,103 - INFO - Menghapus 0 duplikat
+2025-05-17 20:53:01,104 - INFO - Menghapus 0 null
+2025-05-17 20:53:01,104 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:53:01,114 - INFO - Transformasi data dimulai pada 2025-05-17 20:53:01
+2025-05-17 20:53:01,116 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:53:01,121 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 20:53:01,125 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:53:01,132 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 20:53:01,132 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 20:53:01,134 - INFO - Menghapus 0 duplikat
+2025-05-17 20:53:01,134 - INFO - Menghapus 0 null
+2025-05-17 20:53:01,135 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 20:53:01,137 - INFO - Transformasi data dimulai pada 2025-05-17 20:53:01
+2025-05-17 20:53:01,141 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 20:53:01,147 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:39:31,730 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:39:31,736 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:39:31,736 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:39:31
+2025-05-17 21:39:31,740 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:39:31
+2025-05-17 21:39:31,742 - INFO - Transformasi data dimulai pada 2025-05-17 21:39:31
+2025-05-17 21:39:31,771 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:39:31,794 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:39:31,803 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:39:31,806 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:39:31,807 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:39:31,823 - INFO - Menghapus 0 duplikat
+2025-05-17 21:39:31,827 - INFO - Menghapus 0 null
+2025-05-17 21:39:31,829 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:39:31,831 - INFO - Transformasi data dimulai pada 2025-05-17 21:39:31
+2025-05-17 21:39:31,834 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:39:31,839 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:39:31,845 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:39:31,849 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:39:31,850 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:39:31,852 - INFO - Menghapus 0 duplikat
+2025-05-17 21:39:31,853 - INFO - Menghapus 0 null
+2025-05-17 21:39:31,853 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:39:31,903 - INFO - Transformasi data dimulai pada 2025-05-17 21:39:31
+2025-05-17 21:39:31,907 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:39:31,912 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:39:31,916 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:39:31,921 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:39:31,923 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:39:31,925 - INFO - Menghapus 0 duplikat
+2025-05-17 21:39:31,926 - INFO - Menghapus 0 null
+2025-05-17 21:39:31,927 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:39:31,929 - INFO - Transformasi data dimulai pada 2025-05-17 21:39:31
+2025-05-17 21:39:31,933 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:39:31,939 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:40:26,337 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:40:26,342 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:40:26,342 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:40:26
+2025-05-17 21:40:26,346 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:40:26
+2025-05-17 21:40:26,347 - INFO - Transformasi data dimulai pada 2025-05-17 21:40:26
+2025-05-17 21:40:26,354 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:40:26,359 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:40:26,362 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:40:26,366 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:40:26,368 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:40:26,370 - INFO - Menghapus 0 duplikat
+2025-05-17 21:40:26,371 - INFO - Menghapus 0 null
+2025-05-17 21:40:26,371 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:40:26,373 - INFO - Transformasi data dimulai pada 2025-05-17 21:40:26
+2025-05-17 21:40:26,375 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:40:26,388 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:40:26,395 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:40:26,401 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:40:26,404 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:40:26,405 - INFO - Menghapus 0 duplikat
+2025-05-17 21:40:26,406 - INFO - Menghapus 0 null
+2025-05-17 21:40:26,406 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:40:26,434 - INFO - Transformasi data dimulai pada 2025-05-17 21:40:26
+2025-05-17 21:40:26,438 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:40:26,443 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:40:26,447 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:40:26,451 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:40:26,453 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:40:26,454 - INFO - Menghapus 0 duplikat
+2025-05-17 21:40:26,456 - INFO - Menghapus 0 null
+2025-05-17 21:40:26,456 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:40:26,458 - INFO - Transformasi data dimulai pada 2025-05-17 21:40:26
+2025-05-17 21:40:26,459 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:40:26,461 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:41:31,698 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:41:31,701 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:41:31,701 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:41:31
+2025-05-17 21:41:31,703 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:41:31
+2025-05-17 21:41:31,703 - INFO - Transformasi data dimulai pada 2025-05-17 21:41:31
+2025-05-17 21:41:31,707 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:41:31,712 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:41:31,716 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:41:31,717 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:41:31,718 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:41:31,719 - INFO - Menghapus 0 duplikat
+2025-05-17 21:41:31,721 - INFO - Menghapus 0 null
+2025-05-17 21:41:31,721 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:41:31,722 - INFO - Transformasi data dimulai pada 2025-05-17 21:41:31
+2025-05-17 21:41:31,723 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:41:31,727 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:41:31,730 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:41:31,735 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:41:31,737 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:41:31,740 - INFO - Menghapus 0 duplikat
+2025-05-17 21:41:31,741 - INFO - Menghapus 0 null
+2025-05-17 21:41:31,742 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:41:31,775 - INFO - Transformasi data dimulai pada 2025-05-17 21:41:31
+2025-05-17 21:41:31,777 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:41:31,781 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:41:31,786 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:41:31,790 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:41:31,793 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:41:31,795 - INFO - Menghapus 0 duplikat
+2025-05-17 21:41:31,796 - INFO - Menghapus 0 null
+2025-05-17 21:41:31,796 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:41:31,798 - INFO - Transformasi data dimulai pada 2025-05-17 21:41:31
+2025-05-17 21:41:31,806 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:41:31,817 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:43:15,193 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:43:15,198 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:43:15,198 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:43:15
+2025-05-17 21:43:15,203 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:43:15
+2025-05-17 21:43:15,204 - INFO - Transformasi data dimulai pada 2025-05-17 21:43:15
+2025-05-17 21:43:15,218 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:43:15,230 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:43:15,239 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:43:15,242 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:43:15,244 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:43:15,254 - INFO - Menghapus 0 duplikat
+2025-05-17 21:43:15,256 - INFO - Menghapus 0 null
+2025-05-17 21:43:15,257 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:43:15,258 - INFO - Transformasi data dimulai pada 2025-05-17 21:43:15
+2025-05-17 21:43:15,260 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:43:15,265 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:43:15,270 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:43:15,272 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:43:15,272 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:43:15,274 - INFO - Menghapus 0 duplikat
+2025-05-17 21:43:15,274 - INFO - Menghapus 0 null
+2025-05-17 21:43:15,275 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:43:15,298 - INFO - Transformasi data dimulai pada 2025-05-17 21:43:15
+2025-05-17 21:43:15,300 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:43:15,306 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:43:15,313 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:43:15,317 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:43:15,318 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:43:15,320 - INFO - Menghapus 0 duplikat
+2025-05-17 21:43:15,321 - INFO - Menghapus 0 null
+2025-05-17 21:43:15,321 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:43:15,323 - INFO - Transformasi data dimulai pada 2025-05-17 21:43:15
+2025-05-17 21:43:15,325 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:43:15,330 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:46:53,775 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:46:53,780 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:46:53,780 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:46:53
+2025-05-17 21:46:53,786 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:46:53
+2025-05-17 21:46:53,789 - INFO - Transformasi data dimulai pada 2025-05-17 21:46:53
+2025-05-17 21:46:53,800 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:46:53,812 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:46:53,820 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:46:53,830 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:46:53,833 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:46:53,836 - INFO - Menghapus 0 duplikat
+2025-05-17 21:46:53,839 - INFO - Menghapus 0 null
+2025-05-17 21:46:53,840 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:46:53,843 - INFO - Transformasi data dimulai pada 2025-05-17 21:46:53
+2025-05-17 21:46:53,848 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:46:53,855 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:46:53,860 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:46:53,865 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:46:53,866 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:46:53,869 - INFO - Menghapus 0 duplikat
+2025-05-17 21:46:53,870 - INFO - Menghapus 0 null
+2025-05-17 21:46:53,870 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:46:53,905 - INFO - Transformasi data dimulai pada 2025-05-17 21:46:53
+2025-05-17 21:46:53,910 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:46:53,916 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:46:53,920 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:46:53,924 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:46:53,926 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:46:53,929 - INFO - Menghapus 0 duplikat
+2025-05-17 21:46:53,930 - INFO - Menghapus 0 null
+2025-05-17 21:46:53,930 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:46:53,932 - INFO - Transformasi data dimulai pada 2025-05-17 21:46:53
+2025-05-17 21:46:53,935 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:46:53,943 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:47:16,034 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:47:16,036 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:47:16,036 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:47:16
+2025-05-17 21:47:16,038 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:47:16
+2025-05-17 21:47:16,039 - INFO - Transformasi data dimulai pada 2025-05-17 21:47:16
+2025-05-17 21:47:16,044 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:47:16,046 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:47:16,048 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:47:16,050 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:47:16,050 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:47:16,051 - INFO - Menghapus 0 duplikat
+2025-05-17 21:47:16,052 - INFO - Menghapus 0 null
+2025-05-17 21:47:16,052 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:47:16,053 - INFO - Transformasi data dimulai pada 2025-05-17 21:47:16
+2025-05-17 21:47:16,054 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:47:16,056 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:47:16,057 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:47:16,059 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:47:16,059 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:47:16,060 - INFO - Menghapus 0 duplikat
+2025-05-17 21:47:16,061 - INFO - Menghapus 0 null
+2025-05-17 21:47:16,061 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:47:16,075 - INFO - Transformasi data dimulai pada 2025-05-17 21:47:16
+2025-05-17 21:47:16,076 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:47:16,079 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:47:16,086 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:47:16,091 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 21:47:16,092 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:47:16,095 - INFO - Menghapus 0 duplikat
+2025-05-17 21:47:16,096 - INFO - Menghapus 0 null
+2025-05-17 21:47:16,096 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 21:47:16,097 - INFO - Transformasi data dimulai pada 2025-05-17 21:47:16
+2025-05-17 21:47:16,098 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:47:16,106 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:52:56,112 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:52:56,115 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:52:56,115 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:52:56
+2025-05-17 21:52:56,119 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:52:56
+2025-05-17 21:52:56,121 - INFO - Transformasi data dimulai pada 2025-05-17 21:52:56
+2025-05-17 21:52:56,127 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:52:56,132 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:52:56,135 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:52:56,137 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:52:56,138 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:52:56,139 - INFO - Menghapus 0 duplikat
+2025-05-17 21:52:56,139 - INFO - Menghapus 0 null
+2025-05-17 21:52:56,140 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:52:56,143 - INFO - Transformasi data dimulai pada 2025-05-17 21:52:56
+2025-05-17 21:52:56,144 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:52:56,149 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:52:56,153 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:52:56,162 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:52:56,163 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:52:56,164 - INFO - Menghapus 0 duplikat
+2025-05-17 21:52:56,166 - INFO - Menghapus 0 null
+2025-05-17 21:52:56,167 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:52:56,182 - INFO - Transformasi data dimulai pada 2025-05-17 21:52:56
+2025-05-17 21:52:56,186 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:52:56,188 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:52:56,192 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:52:56,195 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:52:56,196 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:52:56,197 - INFO - Menghapus 0 duplikat
+2025-05-17 21:52:56,197 - INFO - Menghapus 0 null
+2025-05-17 21:52:56,198 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:52:56,199 - INFO - Transformasi data dimulai pada 2025-05-17 21:52:56
+2025-05-17 21:52:56,200 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:52:56,204 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:53:47,724 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:53:47,728 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:53:47,728 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:53:47
+2025-05-17 21:53:47,730 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:53:47
+2025-05-17 21:53:47,732 - INFO - Transformasi data dimulai pada 2025-05-17 21:53:47
+2025-05-17 21:53:47,739 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:53:47,745 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:53:47,750 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:53:47,753 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:53:47,755 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:53:47,756 - INFO - Menghapus 0 duplikat
+2025-05-17 21:53:47,757 - INFO - Menghapus 0 null
+2025-05-17 21:53:47,758 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:53:47,763 - INFO - Transformasi data dimulai pada 2025-05-17 21:53:47
+2025-05-17 21:53:47,767 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:53:47,771 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:53:47,773 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:53:47,775 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:53:47,775 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:53:47,776 - INFO - Menghapus 0 duplikat
+2025-05-17 21:53:47,776 - INFO - Menghapus 0 null
+2025-05-17 21:53:47,777 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:53:47,790 - INFO - Transformasi data dimulai pada 2025-05-17 21:53:47
+2025-05-17 21:53:47,792 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:53:47,797 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:53:47,802 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:53:47,805 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:53:47,806 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:53:47,806 - INFO - Menghapus 0 duplikat
+2025-05-17 21:53:47,807 - INFO - Menghapus 0 null
+2025-05-17 21:53:47,808 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:53:47,809 - INFO - Transformasi data dimulai pada 2025-05-17 21:53:47
+2025-05-17 21:53:47,811 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:53:47,816 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:55:15,165 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:55:15,167 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:55:15,168 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:55:15
+2025-05-17 21:55:15,170 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:55:15
+2025-05-17 21:55:15,171 - INFO - Transformasi data dimulai pada 2025-05-17 21:55:15
+2025-05-17 21:55:15,176 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:55:15,180 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:55:15,183 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:55:15,185 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:55:15,185 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:55:15,185 - INFO - Menghapus 0 duplikat
+2025-05-17 21:55:15,186 - INFO - Menghapus 0 null
+2025-05-17 21:55:15,187 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:55:15,189 - INFO - Transformasi data dimulai pada 2025-05-17 21:55:15
+2025-05-17 21:55:15,190 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:55:15,192 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:55:15,194 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:55:15,195 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:55:15,196 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:55:15,196 - INFO - Menghapus 0 duplikat
+2025-05-17 21:55:15,196 - INFO - Menghapus 0 null
+2025-05-17 21:55:15,197 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:55:15,210 - INFO - Transformasi data dimulai pada 2025-05-17 21:55:15
+2025-05-17 21:55:15,214 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:55:15,221 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:55:15,225 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:55:15,231 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:55:15,232 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:55:15,233 - INFO - Menghapus 0 duplikat
+2025-05-17 21:55:15,234 - INFO - Menghapus 0 null
+2025-05-17 21:55:15,235 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:55:15,237 - INFO - Transformasi data dimulai pada 2025-05-17 21:55:15
+2025-05-17 21:55:15,239 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:55:15,242 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:56:02,451 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:56:02,454 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:56:02,455 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:56:02
+2025-05-17 21:56:02,457 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:56:02
+2025-05-17 21:56:02,458 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:02
+2025-05-17 21:56:02,463 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:02,466 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:56:02,468 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:02,470 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:02,471 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:02,471 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:02,472 - INFO - Menghapus 0 null
+2025-05-17 21:56:02,472 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:56:02,474 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:02
+2025-05-17 21:56:02,475 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:02,478 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:56:02,479 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:56:02,481 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:56:02,482 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:02,484 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:02,484 - INFO - Menghapus 0 null
+2025-05-17 21:56:02,484 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:56:02,512 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:02
+2025-05-17 21:56:02,514 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:02,518 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:56:02,520 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:02,522 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:02,522 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:02,522 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:02,524 - INFO - Menghapus 0 null
+2025-05-17 21:56:02,524 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:56:02,526 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:02
+2025-05-17 21:56:02,528 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:02,537 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:56:17,248 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:56:17,251 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:56:17,251 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:56:17
+2025-05-17 21:56:17,255 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:56:17
+2025-05-17 21:56:17,257 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:17
+2025-05-17 21:56:17,262 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:17,266 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:56:17,269 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:17,271 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:17,271 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:17,272 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:17,272 - INFO - Menghapus 0 null
+2025-05-17 21:56:17,274 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:56:17,276 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:17
+2025-05-17 21:56:17,277 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:17,278 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:56:17,281 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:56:17,284 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:56:17,287 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:17,290 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:17,292 - INFO - Menghapus 0 null
+2025-05-17 21:56:17,293 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:56:17,321 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:17
+2025-05-17 21:56:17,324 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:17,326 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:56:17,328 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:17,335 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:17,336 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:17,336 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:17,336 - INFO - Menghapus 0 null
+2025-05-17 21:56:17,337 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:56:17,338 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:17
+2025-05-17 21:56:17,339 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:17,343 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 21:56:47,052 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 21:56:47,054 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 21:56:47,055 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 21:56:47
+2025-05-17 21:56:47,056 - INFO - Berhasil melakukan extract tanggal 2025-05-17 21:56:47
+2025-05-17 21:56:47,058 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:47
+2025-05-17 21:56:47,062 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:47,065 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 21:56:47,067 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:47,069 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:47,069 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:47,069 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:47,069 - INFO - Menghapus 0 null
+2025-05-17 21:56:47,071 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:56:47,073 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:47
+2025-05-17 21:56:47,074 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:47,076 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:56:47,077 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:56:47,079 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 21:56:47,080 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:47,083 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:47,083 - INFO - Menghapus 0 null
+2025-05-17 21:56:47,084 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 21:56:47,110 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:47
+2025-05-17 21:56:47,112 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:47,118 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 21:56:47,123 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:47,125 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 0 data
+2025-05-17 21:56:47,125 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 21:56:47,125 - INFO - Menghapus 0 duplikat
+2025-05-17 21:56:47,126 - INFO - Menghapus 0 null
+2025-05-17 21:56:47,126 - INFO - Transformasi selesai, total baris akhir: 0
+2025-05-17 21:56:47,128 - INFO - Transformasi data dimulai pada 2025-05-17 21:56:47
+2025-05-17 21:56:47,134 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 21:56:47,139 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 22:08:26,818 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 22:08:26,820 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 22:08:26,820 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 22:08:26
+2025-05-17 22:08:26,822 - INFO - Berhasil melakukan extract tanggal 2025-05-17 22:08:26
+2025-05-17 22:08:26,822 - INFO - Transformasi data dimulai pada 2025-05-17 22:08:26
+2025-05-17 22:08:26,838 - ERROR - Terjadi kesalahan selama transformasi data: 'Price'
+2025-05-17 22:08:26,922 - INFO - Transformasi data dimulai pada 2025-05-17 22:08:26
+2025-05-17 22:08:26,923 - ERROR - Terjadi kesalahan selama transformasi data: 'Price'
+2025-05-17 22:08:26,926 - INFO - Transformasi data dimulai pada 2025-05-17 22:08:26
+2025-05-17 22:08:26,927 - ERROR - Terjadi kesalahan selama transformasi data: 'Price'
+2025-05-17 22:08:26,928 - INFO - Transformasi data dimulai pada 2025-05-17 22:08:26
+2025-05-17 22:08:26,928 - ERROR - Terjadi kesalahan selama transformasi data: 'Price'
+2025-05-17 22:15:52,216 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 22:15:52,216 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 22:15:52,216 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 22:15:52
+2025-05-17 22:15:52,216 - INFO - Berhasil melakukan extract tanggal 2025-05-17 22:15:52
+2025-05-17 22:15:52,216 - INFO - Transformasi data dimulai pada 2025-05-17 22:15:52
+2025-05-17 22:15:52,225 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:15:52,235 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 22:15:52,235 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 22:15:52,235 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 22:15:52,235 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:15:52,251 - INFO - Menghapus 0 duplikat
+2025-05-17 22:15:52,251 - INFO - Menghapus 0 null
+2025-05-17 22:15:52,252 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 22:15:52,253 - INFO - Transformasi data dimulai pada 2025-05-17 22:15:52
+2025-05-17 22:15:52,257 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:15:52,258 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:15:52,258 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:15:52,258 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:15:52,258 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:15:52,258 - INFO - Menghapus 0 duplikat
+2025-05-17 22:15:52,258 - INFO - Menghapus 0 null
+2025-05-17 22:15:52,258 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:15:52,275 - INFO - Transformasi data dimulai pada 2025-05-17 22:15:52
+2025-05-17 22:15:52,276 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:15:52,277 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:15:52,278 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:15:52,279 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:15:52,279 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:15:52,280 - INFO - Menghapus 0 duplikat
+2025-05-17 22:15:52,280 - INFO - Menghapus 0 null
+2025-05-17 22:15:52,280 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:15:52,281 - INFO - Transformasi data dimulai pada 2025-05-17 22:15:52
+2025-05-17 22:15:52,282 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:15:52,282 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 22:16:49,204 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 22:16:49,204 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 22:16:49,204 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 22:16:49
+2025-05-17 22:16:49,204 - INFO - Berhasil melakukan extract tanggal 2025-05-17 22:16:49
+2025-05-17 22:16:49,204 - INFO - Transformasi data dimulai pada 2025-05-17 22:16:49
+2025-05-17 22:16:49,204 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:16:49,212 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 22:16:49,215 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 22:16:49,215 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 22:16:49,215 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:16:49,215 - INFO - Menghapus 0 duplikat
+2025-05-17 22:16:49,215 - INFO - Menghapus 0 null
+2025-05-17 22:16:49,215 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 22:16:49,215 - INFO - Transformasi data dimulai pada 2025-05-17 22:16:49
+2025-05-17 22:16:49,215 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:16:49,215 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:16:49,215 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:16:49,225 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:16:49,225 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:16:49,225 - INFO - Menghapus 0 duplikat
+2025-05-17 22:16:49,225 - INFO - Menghapus 0 null
+2025-05-17 22:16:49,225 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:16:49,228 - INFO - Transformasi data dimulai pada 2025-05-17 22:16:49
+2025-05-17 22:16:49,228 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:16:49,228 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:16:49,234 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:16:49,234 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:16:49,234 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:16:49,234 - INFO - Menghapus 0 duplikat
+2025-05-17 22:16:49,234 - INFO - Menghapus 0 null
+2025-05-17 22:16:49,234 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:16:49,234 - INFO - Transformasi data dimulai pada 2025-05-17 22:16:49
+2025-05-17 22:16:49,234 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:16:49,234 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 22:17:36,365 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 22:17:36,365 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 22:17:36,365 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 22:17:36
+2025-05-17 22:17:36,365 - INFO - Berhasil melakukan extract tanggal 2025-05-17 22:17:36
+2025-05-17 22:17:36,365 - INFO - Transformasi data dimulai pada 2025-05-17 22:17:36
+2025-05-17 22:17:36,375 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:17:36,375 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 1 baris data
+2025-05-17 22:17:36,375 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 22:17:36,375 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 1 data
+2025-05-17 22:17:36,375 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:17:36,380 - INFO - Menghapus 0 duplikat
+2025-05-17 22:17:36,380 - INFO - Menghapus 0 null
+2025-05-17 22:17:36,380 - INFO - Transformasi selesai, total baris akhir: 1
+2025-05-17 22:17:36,385 - INFO - Transformasi data dimulai pada 2025-05-17 22:17:36
+2025-05-17 22:17:36,385 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:17:36,385 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:17:36,385 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:17:36,385 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:17:36,390 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:17:36,391 - INFO - Menghapus 0 duplikat
+2025-05-17 22:17:36,391 - INFO - Menghapus 0 null
+2025-05-17 22:17:36,391 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:17:36,400 - INFO - Transformasi data dimulai pada 2025-05-17 22:17:36
+2025-05-17 22:17:36,401 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:17:36,402 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:17:36,403 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:17:36,405 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:17:36,405 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:17:36,406 - INFO - Menghapus 0 duplikat
+2025-05-17 22:17:36,406 - INFO - Menghapus 0 null
+2025-05-17 22:17:36,406 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:17:36,408 - INFO - Transformasi data dimulai pada 2025-05-17 22:17:36
+2025-05-17 22:17:36,408 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:17:36,408 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 22:22:40,723 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 22:22:40,724 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 22:22:40,724 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 22:22:40
+2025-05-17 22:22:40,726 - INFO - Berhasil melakukan extract tanggal 2025-05-17 22:22:40
+2025-05-17 22:22:40,727 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:40
+2025-05-17 22:22:40,742 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:40,751 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:22:40,753 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:40,754 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:40,754 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:22:40,763 - INFO - Menghapus 0 duplikat
+2025-05-17 22:22:40,764 - INFO - Menghapus 0 null
+2025-05-17 22:22:40,765 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:22:40,777 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:40
+2025-05-17 22:22:40,778 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:40,780 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:22:40,780 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:40,782 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:40,783 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:22:40,783 - INFO - Menghapus 0 duplikat
+2025-05-17 22:22:40,783 - INFO - Menghapus 0 null
+2025-05-17 22:22:40,783 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:22:40,792 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:40
+2025-05-17 22:22:40,793 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:40,794 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:22:40,796 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:40,797 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:40,797 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:22:40,799 - INFO - Menghapus 0 duplikat
+2025-05-17 22:22:40,799 - INFO - Menghapus 0 null
+2025-05-17 22:22:40,800 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:22:40,802 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:40
+2025-05-17 22:22:40,803 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:40,804 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'
+2025-05-17 22:22:54,678 - ERROR - Tidak bisa mengambil data dari https://fashion-studio.dicoding.dev/. Detail: Connection error
+2025-05-17 22:22:54,680 - ERROR - Gagal melakukan parsing HTML karena tidak ditemukan
+2025-05-17 22:22:54,680 - ERROR - Gagal melakukan parsing: Gagal melakukan parsing HTML karena tidak ditemukan tanggal 2025-05-17 22:22:54
+2025-05-17 22:22:54,681 - INFO - Berhasil melakukan extract tanggal 2025-05-17 22:22:54
+2025-05-17 22:22:54,682 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:54
+2025-05-17 22:22:54,684 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:54,686 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:22:54,687 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:54,688 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:54,689 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:22:54,689 - INFO - Menghapus 0 duplikat
+2025-05-17 22:22:54,689 - INFO - Menghapus 0 null
+2025-05-17 22:22:54,690 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:22:54,694 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:54
+2025-05-17 22:22:54,695 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:54,697 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:22:54,698 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:54,699 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:54,699 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:22:54,699 - INFO - Menghapus 0 duplikat
+2025-05-17 22:22:54,700 - INFO - Menghapus 0 null
+2025-05-17 22:22:54,700 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:22:54,708 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:54
+2025-05-17 22:22:54,709 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:54,710 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 0 baris data
+2025-05-17 22:22:54,711 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:54,714 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 2 data
+2025-05-17 22:22:54,714 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-17 22:22:54,715 - INFO - Menghapus 0 duplikat
+2025-05-17 22:22:54,715 - INFO - Menghapus 0 null
+2025-05-17 22:22:54,716 - INFO - Transformasi selesai, total baris akhir: 2
+2025-05-17 22:22:54,716 - INFO - Transformasi data dimulai pada 2025-05-17 22:22:54
+2025-05-17 22:22:54,717 - INFO - Menghapus 0 baris dengan title tidak valid
+2025-05-17 22:22:54,718 - ERROR - Terjadi kesalahan selama transformasi data: could not convert string to float: '.'

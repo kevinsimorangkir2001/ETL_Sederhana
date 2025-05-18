@@ -1,0 +1,26 @@
+# membuat environment
+python -m venv env
+
+#mengaktifkan environment (windows) digunakan
+source env/Scripts/activate
+
+# Instal dependency
+pip install -r requirements.txt
+
+# Buat otomatis requirements
+pip freeze > requirements.txt
+
+# Jalanin Skrip
+python main.py
+
+# Jalanin unit test yang ada di folder tests
+python -m unittest discover tests
+
+# Jalanin test coverage yang ada di folder tests
+coverage run -m unittest discover tests
+
+# lihat hasil report
+coverage report -m
+
+# Link Google Sheets:
+https://docs.google.com/spreadsheets/d/1yFUgSlNPsuiu8d8fxzPAGcxbNrxAioumBGLOD6gQX0w/edit?usp=sharing
