@@ -4,6 +4,9 @@ from utils.extracts import scraping_data
 from log_config import setup_logger # untuk mencatat berhasil tidaknya data diambil
 from utils.transform import transform_data
 from utils.load import save_to_csv, save_to_google_sheets, save_to_postgresql
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def main():
     logger = setup_logger(__name__)
@@ -46,11 +49,11 @@ def main():
     # save data ke Postgresql
     # Konfigurasi untuk menyimpan ke PostgreSQL    
     db_config = {
-        "dbname": "ptdicoding",
-        "user": "mentorkevin",
-        "password": "prosesdata",
-       "host" : "localhost",
-        "port": "2744"
+        "dbname": os.getenv("DB_NAME"),
+        "user": os.getenv("DB_USER"),
+        "password": os.getenv("DB_PASSWORD"),
+       "host" : os.getenv("DB_HOST"),
+        "port": os.getenv("DB_PORT")
     }
     save_to_postgresql(transformed_data,db_config)
 

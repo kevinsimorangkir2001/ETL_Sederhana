@@ -1,0 +1,339 @@
+2025-05-19 07:19:03,893 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-19 07:19:04,110 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:03
+2025-05-19 07:19:04,111 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-19 07:19:04,216 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,217 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-19 07:19:04,319 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,319 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-19 07:19:04,402 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,402 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-19 07:19:04,503 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,503 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-19 07:19:04,606 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,606 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-19 07:19:04,699 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,700 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-19 07:19:04,782 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,782 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-19 07:19:04,880 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,880 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-19 07:19:04,963 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:04,963 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-19 07:19:05,065 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:04
+2025-05-19 07:19:05,065 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-19 07:19:05,143 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,143 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-19 07:19:05,239 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,239 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-19 07:19:05,348 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,348 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-19 07:19:05,452 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,452 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-19 07:19:05,547 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,548 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-19 07:19:05,624 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,625 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-19 07:19:05,702 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,702 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-19 07:19:05,794 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,794 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-19 07:19:05,884 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,885 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-19 07:19:05,978 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:05,979 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-19 07:19:06,071 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:05
+2025-05-19 07:19:06,071 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-19 07:19:06,151 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,152 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-19 07:19:06,253 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,253 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-19 07:19:06,337 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,337 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-19 07:19:06,441 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,442 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-19 07:19:06,519 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,519 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-19 07:19:06,596 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,596 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-19 07:19:06,674 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,675 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-19 07:19:06,757 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,757 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-19 07:19:06,861 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,861 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-19 07:19:06,950 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:06,951 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-19 07:19:07,045 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:06
+2025-05-19 07:19:07,046 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-19 07:19:07,130 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,130 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-19 07:19:07,210 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,210 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-19 07:19:07,286 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,287 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-19 07:19:07,387 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,387 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-19 07:19:07,478 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,478 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-19 07:19:07,553 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,553 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-19 07:19:07,630 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,631 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-19 07:19:07,731 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,732 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-19 07:19:07,835 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,835 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-19 07:19:07,915 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,915 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-19 07:19:07,995 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:07,996 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-19 07:19:08,093 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:07
+2025-05-19 07:19:08,093 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-19 07:19:08,184 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:08
+2025-05-19 07:19:08,184 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-19 07:19:08,277 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:08
+2025-05-19 07:19:08,277 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-19 07:19:08,357 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:08
+2025-05-19 07:19:08,357 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-19 07:19:08,437 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:08
+2025-05-19 07:19:08,437 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-19 07:19:08,517 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:19:08
+2025-05-19 07:19:08,518 - INFO - Transformasi data dimulai pada 2025-05-19 07:19:08
+2025-05-19 07:19:08,534 - INFO - Menghapus 100 baris dengan title tidak valid
+2025-05-19 07:19:08,540 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 33 baris data
+2025-05-19 07:19:08,544 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 867 data
+2025-05-19 07:19:08,546 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 867 data
+2025-05-19 07:19:08,547 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-19 07:19:08,550 - INFO - Menghapus 0 duplikat
+2025-05-19 07:19:08,551 - INFO - Menghapus 0 null
+2025-05-19 07:19:08,551 - INFO - Transformasi selesai, total baris akhir: 867
+2025-05-19 07:19:08,557 - INFO - Data ETL berhasil disimpan ke products.csv pada tanggal 2025-05-19 07:19:03
+2025-05-19 07:19:08,749 - INFO - Data berhasil disimpan ke PostgreSQL ke tabel products tanggal 2025-05-19 07:19:03
+2025-05-19 07:19:08,749 - ERROR - gagal menyimpan ke google sheet karena File kredensial etl-pipeline-sederhana.json tidak ditemukan pada tanggal 2025-05-19 07:19:03.
+2025-05-19 07:19:08,750 - INFO - Proses ETL PT Dicoding selesai dilakukan tanggal 2025-05-19 07:19:03
+2025-05-19 07:20:30,112 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-19 07:20:30,223 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,223 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-19 07:20:30,301 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,301 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-19 07:20:30,390 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,391 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-19 07:20:30,485 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,485 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-19 07:20:30,581 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,581 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-19 07:20:30,674 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,675 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-19 07:20:30,767 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,768 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-19 07:20:30,845 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,846 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-19 07:20:30,922 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:30,922 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-19 07:20:31,022 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:31,022 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-19 07:20:31,100 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,101 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-19 07:20:31,197 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,198 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-19 07:20:31,273 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,274 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-19 07:20:31,370 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,370 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-19 07:20:31,446 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,446 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-19 07:20:31,538 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,539 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-19 07:20:31,614 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,614 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-19 07:20:31,698 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,698 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-19 07:20:31,792 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,792 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-19 07:20:31,872 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,872 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-19 07:20:31,946 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:31,946 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-19 07:20:32,025 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:31
+2025-05-19 07:20:32,026 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-19 07:20:32,117 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,118 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-19 07:20:32,209 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,209 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-19 07:20:32,286 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,286 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-19 07:20:32,359 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,360 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-19 07:20:32,441 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,441 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-19 07:20:32,532 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,532 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-19 07:20:32,626 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,626 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-19 07:20:32,716 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,717 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-19 07:20:32,826 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,827 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-19 07:20:32,929 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:32,930 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-19 07:20:33,031 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:32
+2025-05-19 07:20:33,031 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-19 07:20:33,110 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,110 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-19 07:20:33,192 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,192 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-19 07:20:33,296 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,296 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-19 07:20:33,373 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,373 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-19 07:20:33,470 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,470 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-19 07:20:33,546 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,546 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-19 07:20:33,639 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,639 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-19 07:20:33,727 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,727 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-19 07:20:33,804 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,804 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-19 07:20:33,899 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,899 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-19 07:20:33,976 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:33,976 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-19 07:20:34,057 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:33
+2025-05-19 07:20:34,057 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-19 07:20:34,152 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:34
+2025-05-19 07:20:34,153 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-19 07:20:34,234 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:34
+2025-05-19 07:20:34,234 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-19 07:20:34,310 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:34
+2025-05-19 07:20:34,311 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-19 07:20:34,385 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:34
+2025-05-19 07:20:34,386 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-19 07:20:34,464 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:20:34
+2025-05-19 07:20:34,465 - INFO - Transformasi data dimulai pada 2025-05-19 07:20:34
+2025-05-19 07:20:34,469 - INFO - Menghapus 100 baris dengan title tidak valid
+2025-05-19 07:20:34,472 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 33 baris data
+2025-05-19 07:20:34,475 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 867 data
+2025-05-19 07:20:34,477 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 867 data
+2025-05-19 07:20:34,478 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-19 07:20:34,478 - INFO - Menghapus 0 duplikat
+2025-05-19 07:20:34,479 - INFO - Menghapus 0 null
+2025-05-19 07:20:34,479 - INFO - Transformasi selesai, total baris akhir: 867
+2025-05-19 07:20:34,483 - INFO - Data ETL berhasil disimpan ke products.csv pada tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:34,627 - INFO - Data berhasil disimpan ke PostgreSQL ke tabel products tanggal 2025-05-19 07:20:30
+2025-05-19 07:20:34,627 - ERROR - gagal menyimpan ke google sheet karena File kredensial etl-pipeline-sederhana.json tidak ditemukan pada tanggal 2025-05-19 07:20:30.
+2025-05-19 07:20:34,627 - INFO - Proses ETL PT Dicoding selesai dilakukan tanggal 2025-05-19 07:20:30
+2025-05-19 07:23:53,497 - INFO - berhasil Scraping main page: https://fashion-studio.dicoding.dev/
+2025-05-19 07:23:53,682 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:53
+2025-05-19 07:23:53,682 - INFO - Berhasil Scraping page 2: https://fashion-studio.dicoding.dev/page2
+2025-05-19 07:23:53,764 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:53
+2025-05-19 07:23:53,764 - INFO - Berhasil Scraping page 3: https://fashion-studio.dicoding.dev/page3
+2025-05-19 07:23:53,841 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:53
+2025-05-19 07:23:53,841 - INFO - Berhasil Scraping page 4: https://fashion-studio.dicoding.dev/page4
+2025-05-19 07:23:53,923 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:53
+2025-05-19 07:23:53,924 - INFO - Berhasil Scraping page 5: https://fashion-studio.dicoding.dev/page5
+2025-05-19 07:23:54,010 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:53
+2025-05-19 07:23:54,011 - INFO - Berhasil Scraping page 6: https://fashion-studio.dicoding.dev/page6
+2025-05-19 07:23:54,087 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,088 - INFO - Berhasil Scraping page 7: https://fashion-studio.dicoding.dev/page7
+2025-05-19 07:23:54,167 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,168 - INFO - Berhasil Scraping page 8: https://fashion-studio.dicoding.dev/page8
+2025-05-19 07:23:54,246 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,247 - INFO - Berhasil Scraping page 9: https://fashion-studio.dicoding.dev/page9
+2025-05-19 07:23:54,320 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,320 - INFO - Berhasil Scraping page 10: https://fashion-studio.dicoding.dev/page10
+2025-05-19 07:23:54,413 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,414 - INFO - Berhasil Scraping page 11: https://fashion-studio.dicoding.dev/page11
+2025-05-19 07:23:54,489 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,489 - INFO - Berhasil Scraping page 12: https://fashion-studio.dicoding.dev/page12
+2025-05-19 07:23:54,576 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,577 - INFO - Berhasil Scraping page 13: https://fashion-studio.dicoding.dev/page13
+2025-05-19 07:23:54,678 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,678 - INFO - Berhasil Scraping page 14: https://fashion-studio.dicoding.dev/page14
+2025-05-19 07:23:54,759 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,759 - INFO - Berhasil Scraping page 15: https://fashion-studio.dicoding.dev/page15
+2025-05-19 07:23:54,839 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,839 - INFO - Berhasil Scraping page 16: https://fashion-studio.dicoding.dev/page16
+2025-05-19 07:23:54,928 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:54,928 - INFO - Berhasil Scraping page 17: https://fashion-studio.dicoding.dev/page17
+2025-05-19 07:23:55,020 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:54
+2025-05-19 07:23:55,020 - INFO - Berhasil Scraping page 18: https://fashion-studio.dicoding.dev/page18
+2025-05-19 07:23:55,114 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,114 - INFO - Berhasil Scraping page 19: https://fashion-studio.dicoding.dev/page19
+2025-05-19 07:23:55,206 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,207 - INFO - Berhasil Scraping page 20: https://fashion-studio.dicoding.dev/page20
+2025-05-19 07:23:55,284 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,285 - INFO - Berhasil Scraping page 21: https://fashion-studio.dicoding.dev/page21
+2025-05-19 07:23:55,363 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,363 - INFO - Berhasil Scraping page 22: https://fashion-studio.dicoding.dev/page22
+2025-05-19 07:23:55,450 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,450 - INFO - Berhasil Scraping page 23: https://fashion-studio.dicoding.dev/page23
+2025-05-19 07:23:55,547 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,547 - INFO - Berhasil Scraping page 24: https://fashion-studio.dicoding.dev/page24
+2025-05-19 07:23:55,676 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,676 - INFO - Berhasil Scraping page 25: https://fashion-studio.dicoding.dev/page25
+2025-05-19 07:23:55,767 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,767 - INFO - Berhasil Scraping page 26: https://fashion-studio.dicoding.dev/page26
+2025-05-19 07:23:55,845 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,845 - INFO - Berhasil Scraping page 27: https://fashion-studio.dicoding.dev/page27
+2025-05-19 07:23:55,936 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:55,936 - INFO - Berhasil Scraping page 28: https://fashion-studio.dicoding.dev/page28
+2025-05-19 07:23:56,009 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:55
+2025-05-19 07:23:56,010 - INFO - Berhasil Scraping page 29: https://fashion-studio.dicoding.dev/page29
+2025-05-19 07:23:56,106 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,107 - INFO - Berhasil Scraping page 30: https://fashion-studio.dicoding.dev/page30
+2025-05-19 07:23:56,188 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,188 - INFO - Berhasil Scraping page 31: https://fashion-studio.dicoding.dev/page31
+2025-05-19 07:23:56,294 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,294 - INFO - Berhasil Scraping page 32: https://fashion-studio.dicoding.dev/page32
+2025-05-19 07:23:56,382 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,382 - INFO - Berhasil Scraping page 33: https://fashion-studio.dicoding.dev/page33
+2025-05-19 07:23:56,476 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,476 - INFO - Berhasil Scraping page 34: https://fashion-studio.dicoding.dev/page34
+2025-05-19 07:23:56,569 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,569 - INFO - Berhasil Scraping page 35: https://fashion-studio.dicoding.dev/page35
+2025-05-19 07:23:56,663 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,664 - INFO - Berhasil Scraping page 36: https://fashion-studio.dicoding.dev/page36
+2025-05-19 07:23:56,741 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,741 - INFO - Berhasil Scraping page 37: https://fashion-studio.dicoding.dev/page37
+2025-05-19 07:23:56,865 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,865 - INFO - Berhasil Scraping page 38: https://fashion-studio.dicoding.dev/page38
+2025-05-19 07:23:56,943 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:56,943 - INFO - Berhasil Scraping page 39: https://fashion-studio.dicoding.dev/page39
+2025-05-19 07:23:57,029 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:56
+2025-05-19 07:23:57,029 - INFO - Berhasil Scraping page 40: https://fashion-studio.dicoding.dev/page40
+2025-05-19 07:23:57,131 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,131 - INFO - Berhasil Scraping page 41: https://fashion-studio.dicoding.dev/page41
+2025-05-19 07:23:57,220 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,220 - INFO - Berhasil Scraping page 42: https://fashion-studio.dicoding.dev/page42
+2025-05-19 07:23:57,300 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,300 - INFO - Berhasil Scraping page 43: https://fashion-studio.dicoding.dev/page43
+2025-05-19 07:23:57,401 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,402 - INFO - Berhasil Scraping page 44: https://fashion-studio.dicoding.dev/page44
+2025-05-19 07:23:57,503 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,503 - INFO - Berhasil Scraping page 45: https://fashion-studio.dicoding.dev/page45
+2025-05-19 07:23:57,579 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,580 - INFO - Berhasil Scraping page 46: https://fashion-studio.dicoding.dev/page46
+2025-05-19 07:23:57,673 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,673 - INFO - Berhasil Scraping page 47: https://fashion-studio.dicoding.dev/page47
+2025-05-19 07:23:57,764 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,766 - INFO - Berhasil Scraping page 48: https://fashion-studio.dicoding.dev/page48
+2025-05-19 07:23:57,854 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,854 - INFO - Berhasil Scraping page 49: https://fashion-studio.dicoding.dev/page49
+2025-05-19 07:23:57,950 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:57,951 - INFO - Berhasil Scraping page 50: https://fashion-studio.dicoding.dev/page50
+2025-05-19 07:23:58,045 - INFO - Berhasil melakukan extract tanggal 2025-05-19 07:23:57
+2025-05-19 07:23:58,046 - INFO - Transformasi data dimulai pada 2025-05-19 07:23:58
+2025-05-19 07:23:58,050 - INFO - Menghapus 100 baris dengan title tidak valid
+2025-05-19 07:23:58,052 - INFO - Kolom 'price' berhasil diproses hingga koversi ke rupiah dan menghapus 33 baris data
+2025-05-19 07:23:58,054 - INFO - Kolom 'rating' berhasil diambil hanya angkanya saja sebanyak 867 data
+2025-05-19 07:23:58,056 - INFO - Kolom 'colors' berhasil diambil hanya angkanya saja sebanyak 867 data
+2025-05-19 07:23:58,057 - INFO - Kolom 'size' dan 'gender' dibersihkan
+2025-05-19 07:23:58,058 - INFO - Menghapus 0 duplikat
+2025-05-19 07:23:58,058 - INFO - Menghapus 0 null
+2025-05-19 07:23:58,059 - INFO - Transformasi selesai, total baris akhir: 867
+2025-05-19 07:23:58,064 - INFO - Data ETL berhasil disimpan ke products.csv pada tanggal 2025-05-19 07:23:53
+2025-05-19 07:23:58,196 - INFO - Data berhasil disimpan ke PostgreSQL ke tabel products tanggal 2025-05-19 07:23:53
+2025-05-19 07:23:58,197 - ERROR - gagal menyimpan ke google sheet karena File kredensial etl-pipeline-sederhana.json tidak ditemukan pada tanggal 2025-05-19 07:23:53.
+2025-05-19 07:23:58,197 - INFO - Proses ETL PT Dicoding selesai dilakukan tanggal 2025-05-19 07:23:53
